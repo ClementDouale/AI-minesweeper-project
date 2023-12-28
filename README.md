@@ -1,5 +1,5 @@
 # AI Project IA02: Minesweeper Problem with Tigers, Crocodiles, and Sharks
-This project, led by Clément Douale from group 66, focuses on solving the minesweeper problem involving tigers, crocodiles, and sharks.
+This project focuses on solving the minesweeper problem involving tigers, crocodiles, and sharks.
 
 ## Problem Description
 ### Variables and Clauses
